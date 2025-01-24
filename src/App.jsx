@@ -38,7 +38,7 @@ function App() {
         />
         <img
           className="w-full md:hidden"
-          src="https://pwskills.com/images/pwskills_thumbnail.png"
+          src="https://pbs.twimg.com/media/GhJ4t5YXkAAFzlo?format=jpg&name=4096x4096"
           alt=""
         />
       </header>
